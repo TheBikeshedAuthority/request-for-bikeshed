@@ -1,0 +1,224 @@
+ 
+
+
+
+Hacklab Member Mailing List                                      J. Bull
+Request For Bikeshed: 1                                Megahertz Studios
+Category: Informational                                      1 June 2012
+
+
+           Introduction of Request For Bikeshed (RFB) Series
+
+Abstract
+
+   Because of the inevitable debate of trivial items at the Hacklab
+   hacker space, it is clear that a standard, agreed-upon protocol for
+   bickering over policy is established. Ironically, the agreement of
+   such a standard may, itself, be subject to being "bikeshedded". The
+   preemptive drafting of this document aims to mitigate such a
+   recursive problem.
+
+Status of this Memo
+
+   This document specifies a horrible, non-efficient, policy-setting
+   protocol for the Hacklab community, and requests discussion and
+   suggestions for improvements ("bikeshedding"). Distribution of this
+   memo is unlimited.
+
+Copyright Notice
+
+   Copyright (C) The Bikeshed Authority (2012).
+
+
+Table of Contents
+
+   1  Introduction  . . . . . . . . . . . . . . . . . . . . . . . . .  2
+     1.1  Terminology . . . . . . . . . . . . . . . . . . . . . . . .  2
+   2.  Document Definition  . . . . . . . . . . . . . . . . . . . . .  2
+     2.1  Front Page  . . . . . . . . . . . . . . . . . . . . . . . .  2
+     2.2  Grievances  . . . . . . . . . . . . . . . . . . . . . . . .  3
+     2.3  Proposed Solutions  . . . . . . . . . . . . . . . . . . . .  3
+     2.4  RFB Responses . . . . . . . . . . . . . . . . . . . . . . .  3
+   3  RFB Archive . . . . . . . . . . . . . . . . . . . . . . . . . .  3
+   4  Closing Remarks . . . . . . . . . . . . . . . . . . . . . . . .  3
+   5  RFB Responses . . . . . . . . . . . . . . . . . . . . . . . . .  4
+   6  Security Considerations . . . . . . . . . . . . . . . . . . . .  4
+   7  References  . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+   Authors' Addresses . . . . . . . . . . . . . . . . . . . . . . . .  4
+
+
+
+
+
+ 
+
+
+J. Bull                                                         [Page 1]
+
+RFB 1                  Introduction of RFB Series            1 June 2012
+
+
+1  Introduction
+
+   The Request For Bikeshed series is a precise, verbose, and a serious
+   joke for members within the Hacklab community. The Bikeshed
+   Authority, an authority of which is in a constant state of colour-
+   based flux, is responsible for the maintenance of the RFB series.
+
+1.1  Terminology
+
+   Bikeshedding            Defined as democracy in action or an exercise
+                           in futility.
+
+   Dropped Issue           The state of a dispute when the original 
+                           parties can no longer decide what colour of
+                           paint to use.
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this
+   document are to be interpreted as described in RFC 2119 [RFC2119].
+
+
+2.  Document Definition
+
+   An RFB document is broken down into four, distinct, and REQUIRED
+   sections outline below.
+
+2.1  Front Page
+
+   An overly verbose front-page that MAY contain a wordy introduction to
+   the disputed matter.
+
+   The required sections are the Abstract, Status of this Memo,
+   Copyright Notice, and Table of Contents.
+
+   The abstract is an attempt to convey the subjective issue to the
+   layperson, single handedly demonstrating the hilarity and
+   insignificance of the dispute. As a result, the abstract should
+   render the rest of the RFB unnecessary.
+
+   The memo status summarizes to whom this document is for.
+
+   The copyright notice is REQUIRED as The Bikeshed Authority is
+   insanely jealous and wants credit for everything it may possibly have
+   a hand in; Then rub your nose in it.
+
+
+
+
+ 
+
+
+J. Bull                                                         [Page 2]
+
+RFB 1                  Introduction of RFB Series            1 June 2012
+
+
+2.2  Grievances
+
+   The section is comprised of everyone's supposed grievances. The body
+   MAY be an entire waste of your time to read and involves waxed
+   poetics of everyone's opinion.
+
+2.3  Proposed Solutions
+
+   This section is considered the most dangerous for perpetuating a
+   "bikeshedded" topic. Members within the Hacklab community propose
+   solutions that either are in direct violation of a previous RFB or
+   spur off an endless cycle of comments, eventually causing all
+   original parties to "drop" the issue.
+
+2.4  RFB Responses
+
+   An RFB MAY be written to respond to an existing RFB, increasing the
+   "bikeshedding" factor of the RFB series.
+
+
+3  RFB Archive
+
+   The RFB series is considered an archived series. All Request For
+   Bikeshed memos will be saved permanently by The Bikeshed Authority on
+   its GitHub account:
+
+      https://www.github.com/TheBikeshedAuthority/request-for-bikeshed
+
+   A member of the Hacklab community, upon writing a valid RFB, MUST
+   make a Pull Request to The Bikeshed Authority to include the RFB into
+   the archive. The Bikeshed Authority will review the proposed RFB and
+   MAY publish it using its sole discretion.
+
+4  Closing Remarks
+
+   The Bikeshed Authority invites all members within the Hacklab
+   community to respond to this RFB using the RFB format, and to open
+   all grievances using the new RFB protocol.
+
+   This RFB was drafted using NroffEdit, and The Bikeshed Authority
+   encourages writers to use this software to keep them from pulling
+   their hair out when conforming to the formatting standards for RFB.
+
+   Good hunting.
+
+
+
+
+ 
+
+
+J. Bull                                                         [Page 3]
+
+RFB 1                  Introduction of RFB Series            1 June 2012
+
+
+5  RFB Responses
+
+   This memo is not in response to any RFB documents.
+
+
+6  Security Considerations
+
+   Security issues are not discussed in this memo.
+
+
+7  References
+
+   [EVILBIT]  Bellovin, S., "The Security Flag in the IPv4 Header",
+              RFC 3514, April 1 2003.
+
+   [RFC1149]  Waitzman, D., "Standard for the transmission of IP
+              datagrams on avian carriers", RFC 1149, April 1 1990.
+
+   [RFC1776]  Crocker, S., "The Address is the Message", RFC 1776, April
+              1 1995.
+
+
+
+Authors' Addresses
+
+
+   Justin Bull (f3ndot)
+   170A Baldwin St.
+   Toronto, Canada
+
+   EMail: me@justinbull.ca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J. Bull                                                         [Page 4]
