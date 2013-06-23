@@ -67,11 +67,11 @@ Table of Contents
      2.4  Personnel Aspects . . . . . . . . . . . . . . . . . . . . .  3
    3  RFB Response Submission . . . . . . . . . . . . . . . . . . . .  3
    4  Closing Remarks . . . . . . . . . . . . . . . . . . . . . . . .  4
-   5  BED . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
-   6  RFB Responses . . . . . . . . . . . . . . . . . . . . . . . . .  5
-   7  Security Considerations . . . . . . . . . . . . . . . . . . . .  5
-   8  References  . . . . . . . . . . . . . . . . . . . . . . . . . .  5
-   Authors' Addresses . . . . . . . . . . . . . . . . . . . . . . . .  5
+   5  BED . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+   6  RFB Responses . . . . . . . . . . . . . . . . . . . . . . . . .  4
+   7  Security Considerations . . . . . . . . . . . . . . . . . . . .  4
+   8  References  . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+   Authors' Addresses . . . . . . . . . . . . . . . . . . . . . . . .  4
 .fi
 .in 3
 
@@ -170,7 +170,6 @@ An RFB MAY be written to respond to this RFB. This action MUST take place before
 
 Our internet is bad and the tubes keep getting clogged. Lets get better tubes.
 
-.bp
 .ti 0
 5  BED
 

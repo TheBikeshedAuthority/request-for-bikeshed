@@ -39,11 +39,11 @@ Table of Contents
      2.4  Personnel Aspects . . . . . . . . . . . . . . . . . . . . .  3
    3  RFB Response Submission . . . . . . . . . . . . . . . . . . . .  3
    4  Closing Remarks . . . . . . . . . . . . . . . . . . . . . . . .  4
-   5  BED . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
-   6  RFB Responses . . . . . . . . . . . . . . . . . . . . . . . . .  5
-   7  Security Considerations . . . . . . . . . . . . . . . . . . . .  5
-   8  References  . . . . . . . . . . . . . . . . . . . . . . . . . .  5
-   Authors' Addresses . . . . . . . . . . . . . . . . . . . . . . . .  5
+   5  BED . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+   6  RFB Responses . . . . . . . . . . . . . . . . . . . . . . . . .  4
+   7  Security Considerations . . . . . . . . . . . . . . . . . . . .  4
+   8  References  . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+   Authors' Addresses . . . . . . . . . . . . . . . . . . . . . . . .  4
 
 
 
@@ -175,57 +175,6 @@ RFB 2            Addition of Coaxially-based Intertubes     23 June 2013
    Our internet is bad and the tubes keep getting clogged. Lets get
    better tubes.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-S. Nordstrom                                                    [Page 4]
-
-RFB 2            Addition of Coaxially-based Intertubes     23 June 2013
-
-
 5  BED
 
    The Bikeshed Expiration Date for this document is June 26, 2013, at
@@ -272,9 +221,4 @@ Authors' Addresses
 
 
 
-
-
-
-
-
-S. Nordstrom                                                    [Page 5]
+S. Nordstrom                                                    [Page 4]
