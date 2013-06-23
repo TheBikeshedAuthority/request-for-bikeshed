@@ -1,0 +1,224 @@
+.pl 10.0i
+.po 0
+.ll 7.2i
+.lt 7.2i
+.nr LL 7.2i
+.nr LT 7.2i
+.ds LF S. Nordstrom 
+.ds RF FORMFEED[Page %]
+.ds LH RFB 2
+.ds RH 23 June 2013
+.ds CH Addition of Coaxially-based Intertubes
+.hy 0
+.nh
+.ad l
+.in 0
+
+.nf
+.tl 'Hacklab Member Mailing List''S. Nordstrom'
+.tl 'Request For Bikeshed: 2''Operations Team'
+.tl 'Category: Proposed Standard''23 June 2013'
+.fi
+
+.\" Note. The ".tl" directive is used to generate the leading header 
+.\" in Internet drafts. The information specified after ".tl" provides
+.\" left, center and right components of a line separated by the ' character
+.\" in the following manner:
+.\" 
+.\"  .tl '<left component>'<center component>'<right component>'
+.\"
+.\" Only the left and right components are used in Internet-draft headers
+.\" This and other comments in this template can safely be deleted.
+
+.ce 2
+Addition of Coaxially-based Intertubes
+.fi
+.in 3
+
+.ti 0
+Abstract
+
+Because of the poor performance of the existing Digital Subscriber Line (DSL) intertube connectivity at the lab, it is clear that an alternative solution is required. This proposed solution involves introducing coaxially-based intertubes to the lab.
+
+.ti 0
+Status of this Memo
+
+This document specifies a potential solution to the problems with the lab intertubes. This solution has been proven at Fumon's house down the street. Distribution of this memo is unlimited.
+
+.ti 0
+Copyright Notice
+
+Copyright (C) The Bikeshed Authority (2013).
+
+
+.\" \# TD4  -- Set TOC depth by altering this value (TD5 = depth 5)
+.\" \# TOC  -- Beginning of auto updated Table of Contents
+.in 0
+Table of Contents
+
+.nf
+   0. TL;DR . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+   1  Introduction  . . . . . . . . . . . . . . . . . . . . . . . . .  2
+     1.1  Terminology . . . . . . . . . . . . . . . . . . . . . . . .  2
+   2  Problem Definition  . . . . . . . . . . . . . . . . . . . . . .  3
+     2.1  Proposed Solutions  . . . . . . . . . . . . . . . . . . . .  3
+     2.2  Grievances  . . . . . . . . . . . . . . . . . . . . . . . .  3
+     2.3  Financial Aspects . . . . . . . . . . . . . . . . . . . . .  3
+     2.4  Personnel Aspects . . . . . . . . . . . . . . . . . . . . .  3
+   3  RFB Response Submission . . . . . . . . . . . . . . . . . . . .  3
+   4  Closing Remarks . . . . . . . . . . . . . . . . . . . . . . . .  4
+   5  BED . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+   6  RFB Responses . . . . . . . . . . . . . . . . . . . . . . . . .  5
+   7  Security Considerations . . . . . . . . . . . . . . . . . . . .  5
+   8  References  . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+   Authors' Addresses . . . . . . . . . . . . . . . . . . . . . . . .  5
+.fi
+.in 3
+
+.\" \# ETC -- End of auto updated Table of Contents
+
+.bp
+.ti 0
+0. TL;DR
+
+I want to add a cable internet connection at the lab, to improve reliability and speed for the lab's users. It SHALL NOT be the primary connection for now, but would be selectable if you want to use it. If it works well we MAY propose switching it to be the primary connection in a later RFB.
+
+.ti 0
+1  Introduction
+
+The performance and reliability of the intertubes at the lab have been unacceptable for some time. We are paying for 10Mbps, but get 6Mbps at best, and much of the time lately get 1Mbps instead. Our upstream is 768k, which is too low. Attempts to troubleshoot this with the providers leads to the pointing of fingers, and often the problem resolving itself only to show up again later.
+
+Since the telephone-based tubes in the Kensington Market area are not in good enough condition for high performance DSL, we are proposing coaxially-based intertubes be installed and activated.
+
+.ti 0
+1.1  Terminology
+
+Coaxial cable           Also known as coax, is a type of cable
+.ti 27
+that has an inner conductor surrounded by a
+.ti 27
+tubular insulating layer, surrounded by a
+.ti 27
+tubular conducting shield.
+
+DHCP Client-ID          As specified in RFC 2131 [RFC2131], a field
+.ti 27
+that clients can set which the DHCP server
+.ti 27
+can use to determine what parameters to
+.ti 27
+provide to that client.
+
+DSL                     Digital Subscriber Line, a technology that
+.ti 27
+allows members of the HackLab to digitally
+.ti 27
+subscribe to "lines" of content, similar to
+.ti 27
+the way in which RSS functions other than
+.ti 27
+not being the same at all.
+
+Intertubes              The tubes that carry packets to/from the lab.
+.ti 27
+
+Ostrich                 A flightless swift-running African bird
+.ti 27
+(Struthio camelus, family Struthionidae) with
+.ti 27
+a long neck, long legs, and two toes on each
+.ti 27
+foot.
+
+.bp
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119 [RFC2119].
+
+.ti 0
+2  Problem Definition
+
+The intertubes at the lab are frequently clogged, and sometimes packets leak out. This leads to the situation where one MUST tether to one's cellular telephone to get reasonable packet flow rates. The author has avoided the lab at some points and gone home instead at times when large files MUST be downloaded.
+
+.ti 0
+2.1  Proposed Solutions
+
+We are proposing installing a Rogers Business cable connection alongside the existing DSL. Using a special DHCP Client ID (as specified in RFC 2131 [RFC2131]) would cause your traffic to be routed out this new connection instead by giving you a different default gateway. This would allow both wired and wireless users to access either connection.
+If this works well, a future RFB MAY propose switching the cable to be the primary connection.
+
+.ti 0
+2.2  Grievances
+
+Much of the lab dislikes Rogers for various reasons. Their Business side seems to be better, from the author's dealings with them. The proposed plan SHALL NOT include a contract, so we could terminate at any time if this becomes problematic.
+
+.ti 0
+2.3  Financial Aspects
+
+The proposed package is $80/month in Canadian Dollars. This SHALL NOT involve a contract, so if the membership decides this is not working out we MAY terminate at any time.
+This package provides 30Mbps down and 5Mbps up, which is a 5-fold improvement over the best we get currently.
+
+.ti 0
+2.4  Personnel Aspects
+
+The Operations Team at the lab would arrange for the installation of the coaxially-based intertubes, and set up the router to allow for the use of such.
+
+.ti 0
+3  RFB Response Submission
+
+An RFB MAY be written to respond to this RFB. This action MUST take place before the BED of this RFB.
+
+.ti 0
+4  Closing Remarks
+
+Our internet is bad and the tubes keep getting clogged. Lets get better tubes.
+
+.bp
+.ti 0
+5  BED
+
+The Bikeshed Expiration Date for this document is June 26, 2013, at which time this issue MUST be put to BED, and action MAY be taken.
+
+.ti 0
+6  RFB Responses
+
+This memo is not in response to any RFB documents.
+
+.ti 0
+7  Security Considerations
+
+Security issues are not discussed in this memo.
+
+.ti 0
+8  References
+
+[RFB1]     Bull, J., "Introduction of Request For Bikeshed (RFB) Series", June 1, 2012.
+
+.\" \# ERF -- End of managed reference list
+.\" ----------------------------------------
+.\" The reference list can be changed at any time by altering the RFC list in the line below the .\" \# REF directive
+.\" In order to execute any change, click on the 'Update All' button or select "Update 'Table of Contents' and References"
+.\" from the "Edit" menu or press <F3>.
+.\" NOTE: Managed reference list requires NroffEdit version 1.40 or later.
+.in 14
+.\" \# REF  -- Managed reference list. Syntax: [RFC]nnnn[;Label], ... ,[RFC]nnnn[;Label]
+.\" \# 1149, 2131
+.ti 3
+[RFC1149]  Waitzman, D., "Standard for the transmission of IP datagrams on avian carriers", RFC\01149, April 1 1990.
+
+.ti 3
+[RFC2131]  Droms, R., "Dynamic Host Configuration Protocol", RFC\02131, March 1997.
+
+.\" \# ERF -- End of managed reference list
+.in 3
+
+
+.ti 0
+Authors' Addresses
+
+.sp
+.nf
+Sen Nordstrom (__sen)
+170A Baldwin St.
+Toronto, Canada
+
+EMail: rfb-2013@sen.cx
+.sp
+.fi
