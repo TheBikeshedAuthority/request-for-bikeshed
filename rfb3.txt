@@ -1,0 +1,241 @@
+
+
+
+Hacklab Working Group                                           N. Dodds
+Request For Bikeshed: 3                                          HLBoard
+Expires: July 31, 2014                                     July 24, 2014
+
+
+                 Obliteration Of Hacklab Bar And Column
+                                  RFB 3
+
+Abstract
+
+   Due to the current space constraints of the Hacklab Toronto Club Inc.
+   location at 170a Baldwin Street Toronto, small modifications to the
+   space can greatly improve the usefulness of the facility.  The
+   author proposes a space modification which involves the removal of
+   the divider ("bar") and column ("column") which partially bisect the
+   Southern half of the Hacklab.  Removal of the bar and column will
+   open up the space and may facilitate new and interesting uses of the
+   Hacklab.  This proposal includes the hiring of a handy-person and
+   licensed electrician to comply with electrical codes.
+
+
+
+Status of this Memo
+
+   This memo describes a method for creating more space at the lab.
+   Distribution is unlimited.
+
+
+
+Copyright Notice
+
+   Copyright (C) The Bikeshed Authority (2014)
+
+
+
+Table Of Contents
+
+   0  TL:DR........................................................... 2
+   1  Introduction.................................................... 2
+     1.1  Terminology................................................. 2
+   2  Problem Definition.............................................. 3
+   3  Proposed Solutions.............................................. 3
+   4  Quote........................................................... 3
+   5  Grievances...................................................... 3
+   6  Financial Considerations........................................ 4
+   7  RFB Responses................................................... 4
+   8  BED............................................................. 4
+   9  Closing Remarks................................................. 4
+
+
+
+
+
+
+Dodds                       Expires July 31 2014                [Page 1]
+
+
+
+RFB 3            Obliteration Of Hacklab Bar And Column        July 2014
+
+
+0.  TL:DR
+
+   We can have Homepro (handy-people/licensed electricians) remove,
+   dispose of and rewire the bar/column for a total before-tax cost of
+   $500.  This would open the space up.
+
+
+1.  Introduction
+
+   The Hacklab is a relatively small space, consisting of roughly 630
+   square feet in the South, upper unit of 170 Baldwin Street, Toronto.
+   The unit consists of a kitchen, washroom, and a large living area
+   partially bisected by a ~4 foot tall wall with a tabletop, which the
+   lab generally refers to as "the bar".  The bar is terminated by a
+   column which reaches floor to ceiling.
+
+   The bisection of the living space might once have served a purpose
+   but has worn out its usefulness.  The space can become quite crowded
+   during open house night, and the layout necessitates that individuals
+   occupy the standing room between the bar and the stairs, which makes
+   it difficult for other individuals to move freely between the kitchen
+   or washroom and the front of the lab.  The bar often attracts garbage
+   and unwanted electronics.  The bar breaks up the space which also
+   makes it difficult to hold large workshops at the Hacklab.
+
+   The author proposes a solution wherein the Hacklab hires a renovation
+   company called Homepro to remove the bar and the column.  Homepro
+   would dispose of the resulting garbage and would re-route the
+   electrical wiring that currently runs through the bar and column in a
+   way that complies with electrical codes.
+
+
+1.1.  Terminology
+
+   Bar:  The roughly 4 foot tall, 7 foot long section of wall that
+      partially bisects the southern half of the Hacklab.  The "Bar" is
+      made out of metal studs, drywall and a prefabricated counter-top
+      likely coated in melamine or a similar substance.  The bar
+      contains BX-style electrical wiring.
+
+   Column:  The floor-to-ceiling square column which terminates the free
+      end of the Bar. The Column is made of drywall and either a metal
+      or wooden support structure.  BX-style electrical wiring runs
+      inside the column.
+
+   HomePro:  A professional, relatively low-priced home renovation
+      outfit which has already given Hacklab a quote on the work to be
+      completed.  They would help remove the Bar and Column and would
+      re-route the electrical wiring which currently runs inside of the
+      Bar and Column.  Their electrician is licensed.
+
+
+
+
+Dodds                       Expires July 31 2014                [Page 2]
+
+
+
+RFB 3            Obliteration Of Hacklab Bar And Column        July 2014
+
+   Beer:  A high-quality beverage which could theoretically be consumed
+      while hacklab members happily destroy the bar as a community-
+      building exercise.
+
+
+2.  Problem Definition
+
+   The Bar and the Column obstruct our use of the space.  They need to
+   go.
+
+
+3.  Proposed Solutions
+
+   Hacklab hires Homepro to help remove and dispose of the Bar and
+   Column.  Homepro then reworks the existing electrical so that the lab
+   may continue to plug in endless numbers of wall-wart USB charging
+   devices.  Hacklab would be responsible for any touch-ups to the
+   floor, ceiling and wall.  Hacklab may leave this in an unfinished
+   state, but we would be wise to commit to some DIY touch-ups.  The
+   Hacklab Board has already sought and obtained permission from our
+   landlady Pearl to perform this work.  She likes us quite a bit as
+   tenants and this solution is partly based on her suggestions.
+
+
+4.  Quote
+
+   The Hacklab invited a representative from Homepro to survey the
+   space.  They are willing to perform the above-mentioned work for a
+   before-tax price of $500. $200 of this is removal and disposal of the
+   Bar/Column, and $300 is the electrical reworking.  The Board Of
+   Directors has an electronic copy of a quoation from Homepro which
+   outlines this pricing, and also goes on to say that their work will
+   comply with all building and electrical codes, and that the work is
+   warrantied against defects for 2 years after completion.
+
+
+5.  Grievances
+
+   The HackTouch is currently mounted on the column, and we would need
+   to find a place to put it if the Column were to be removed.  The bar
+   supports a number of devices, including the computer which runs the
+   HackTouch and various multimedia devices which are notoriously
+   difficult to use.  The bar is also used as storage for things which
+   the lab does not need or want but is too indecisive to get rid of.
+   All of these things would have to be relocated if we chose to remove
+   the Bar and Column.  The Hacklab Nap Couch also backs against the
+   Bar, and would need to be relocated or disposed of, significantly
+   reducing the number of Sunday Afternoon Naps which occur at the lab.
+   Some individuals may have concerns that we will spend the money and
+   then move to another space, though it should be pointed out that we
+   have been on the brink of moving for more than a year and may not
+   move for some time.  Finally, there would be fewer surfaces to put
+   your laptop on during a Tuesday Night, which may be a problem for
+   individuals making heavy use of the Tower Of Fabrication on Tuesdays.
+
+Dodds                       Expires July 31 2014                [Page 3]
+
+
+
+RFB 3            Obliteration Of Hacklab Bar And Column        July 2014
+
+6.  Financial Considerations
+
+   $500 plus tax is a large sum of money, however Hacklab is able to pay
+   this out of pocket easily.  Hacklab has roughly 50 members, which
+   means that we are paying roughly $10 per member for improvement of
+   the space.  The author finds it highly likely that each member will
+   derive greater than $10 worth of added value from their Hacklab
+   membership as a result of this work being completed.  Assuming this
+   is correct, the author believes this is a sound financial decision
+   with the potential to bring more value to the space.
+
+
+
+7.  RFB Responses
+
+   All individuals wishing to bikeshed this action MUST submit a pull
+   request to The Bikeshed Authority as per RFB1, for inclusion of their
+   response RFB into the RFB3 series.  This must be done before the BED.
+
+
+8.  BED
+
+   The Bikeshed Expiration Date (BED) of this document is July 31, at
+   which time the issue is put to BED and action MAY be taken.
+
+
+9.  Closing Remarks
+
+   This makes sense for the lab.  It will give us more space to work
+   with.  This is a thing we can do almost immediately to improve the
+   current space.
+
+
+Author's Address
+
+   Nicholas R. J. Dodds
+   170a Baldwin Street
+   Toronto, Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dodds                       Expires July 31 2014                [Page 4]
